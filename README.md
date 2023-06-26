@@ -19,7 +19,7 @@
 * TestStore - тест класу магазин
 * TestStudent - тест класу студент
 * TestBuilder - тест класу працівника (не путати з класом інтерфейсу)
-* 
+
 ![This is an image](https://github.com/pauchara7/my_pattern_Visitor/blob/main/test_visitor.png)
 
 # Про паттерн
